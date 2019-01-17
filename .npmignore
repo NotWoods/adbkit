@@ -1,0 +1,11 @@
+/.editorconfig
+/.npmignore
+/*.tgz
+/npm-debug.log
+/CONTRIBUTING.md
+/src/
+/test/
+/bench/
+/temp/
+/git_hooks/
+*.!sync
